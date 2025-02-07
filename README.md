@@ -25,7 +25,7 @@
 
 ---
 
-### Pojects
+### Projects
 <p align="left">
   🔗
   <a href="https://example.com">
