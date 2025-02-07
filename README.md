@@ -27,10 +27,11 @@
 
 ### Pojects
 <p align="left">
+  <a href="https://example.com">🔗</a>
   <a href="https://example.com">
     <img src="https://via.placeholder.com/100" alt="Example Image" width="100">
   </a>
-  <a href="https://example.com">🔗</a>
+  
 </p>
 
 # 📊 GitHub Stats:
