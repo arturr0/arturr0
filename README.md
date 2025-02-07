@@ -2,7 +2,7 @@
 
 ### Programming Languages
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
     <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" height="50px"/>
       <span>JavaScript</span>
@@ -24,7 +24,7 @@
 
 ### Frontend Development
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
     <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px" height="50px"/>
       <span>HTML5</span>
@@ -38,7 +38,7 @@
 
 ### Backend Development
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
     <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50px" height="50px"/>
       <span>Node.js</span>
@@ -64,7 +64,7 @@
 
 ### Mobile Development
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
     <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="50px" height="50px"/>
       <span>Android</span>
@@ -74,7 +74,7 @@
 
 ### Electromechanical Software Development
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
     <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg" width="50px" height="50px"/>
       <span>LabVIEW</span>
