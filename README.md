@@ -1,7 +1,7 @@
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; gap: 20px; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" height="50px"/>
     <span>JavaScript</span>
