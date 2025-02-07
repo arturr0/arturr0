@@ -40,6 +40,9 @@
   </a>
 </p>
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arturr0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arturr0&theme=dark&hide_border=false)<br/>
