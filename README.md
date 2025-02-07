@@ -26,6 +26,13 @@
 ---
 
 ### Pojects
+<p align="left">
+  <a href="https://example.com">
+    <img src="https://via.placeholder.com/100" alt="Example Image" width="100">
+  </a>
+  <a href="https://example.com">🔗</a>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arturr0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arturr0&theme=dark&hide_border=false)<br/>
