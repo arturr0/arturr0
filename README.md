@@ -1,81 +1,26 @@
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
-<div style="display: flex; flex-direction: row; gap: 20px; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" height="50px"/>
-    <span>JavaScript</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" height="50px"/>
-    <span>Java</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px"/>
-    <span>C++</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" height="50px"/>
-    <span>Python</span>
-  </div>
-</div>
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg) | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg) | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg) |
+|:--:|:--:|:--:|:--:|
+| JavaScript | Java | C++ | Python |
 
 ### Frontend Development
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px" height="50px"/>
-    <span>HTML5</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px" height="50px"/>
-    <span>CSS3</span>
-  </div>
-</div>
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg) |
+|:--:|:--:|
+| HTML5 | CSS3 |
 
 ### Backend Development
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50px" height="50px"/>
-    <span>Node.js</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="50px" height="50px"/>
-    <span>Socket.IO</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50px" height="50px"/>
-    <span>SQLite</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50px" height="50px"/>
-    <span>MySQL</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" height="50px"/>
-    <span>PostgreSQL</span>
-  </div>
-</div>
+| ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg) | ![Socket.IO](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg) | ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg) | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg) |
+|:--:|:--:|:--:|:--:|:--:|
+| Node.js | Socket.IO | SQLite | MySQL | PostgreSQL |
 
 ### Mobile Development
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="50px" height="50px"/>
-    <span>Android</span>
-  </div>
-</div>
+| ![Android](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg) |
+|:--:|
+| Android |
 
 ### Electromechanical Software Development
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg" width="50px" height="50px"/>
-    <span>LabVIEW</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="50px" height="50px"/>
-    <span>MATLAB</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border: 2px solid #ddd; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microchip/microchip-original.svg" width="50px" height="50px"/>
-    <span>Amesim</span>
-  </div>
-</div>
+| ![LabVIEW](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg) | ![MATLAB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg) | ![Amesim](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microchip/microchip-original.svg) |
+|:--:|:--:|:--:|
+| LabVIEW | MATLAB | Amesim |
