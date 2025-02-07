@@ -41,7 +41,8 @@
 </p>
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> The repositories for projects are **pinned**.
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arturr0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
