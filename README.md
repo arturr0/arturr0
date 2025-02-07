@@ -1,88 +1,36 @@
 ## 🛠️ Technologies & Tools
 
-<style>
-  .tech-container {
-    display: flex;
-    align-items: center;
-    border: 2px solid #ddd;
-    border-radius: 10px;
-    padding: 10px;
-    margin: 5px 0;
-    width: 300px;
-  }
-  .tech-container img {
-    width: 40px;
-    height: 40px;
-    margin-right: 10px;
-  }
-</style>
-
 ### Programming Languages
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <span>JavaScript</span>
-</div>
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <span>Java</span>
-</div>
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <span>C++</span>
-</div>
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <span>Python</span>
-</div>
+| Logo | Name |
+|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" height="40px"/> | JavaScript |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px" height="40px"/> | Java |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px"/> | C++ |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" height="40px"/> | Python |
 
 ### Frontend Development
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <span>HTML5</span>
-</div>
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <span>CSS3</span>
-</div>
+| Logo | Name |
+|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" height="40px"/> | HTML5 |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" height="40px"/> | CSS3 |
 
 ### Backend Development
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <span>Node.js</span>
-</div>
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg">
-  <span>Socket.IO</span>
-</div>
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
-  <span>SQLite</span>
-</div>
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <span>MySQL</span>
-</div>
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <span>PostgreSQL</span>
-</div>
+| Logo | Name |
+|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px" height="40px"/> | Node.js |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="40px" height="40px"/> | Socket.IO |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40px" height="40px"/> | SQLite |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" height="40px"/> | MySQL |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40px" height="40px"/> | PostgreSQL |
 
 ### Mobile Development
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
-  <span>Android</span>
-</div>
+| Logo | Name |
+|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40px" height="40px"/> | Android |
 
 ### Electromechanical Software Development
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg">
-  <span>LabVIEW</span>
-</div>
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
-  <span>MATLAB</span>
-</div>
-<div class="tech-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microchip/microchip-original.svg">
-  <span>Amesim</span>
-</div>
+| Logo | Name |
+|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg" width="40px" height="40px"/> | LabVIEW |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40px" height="40px"/> | MATLAB |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microchip/microchip-original.svg" width="40px" height="40px"/> | Amesim |
