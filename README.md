@@ -58,3 +58,4 @@
   <span style="font-size: 20px; font-weight: bold;">Your Text Here</span>
 </div>
 
+<h3><img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> TECHNOLOGIES</h3>
