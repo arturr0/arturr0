@@ -79,4 +79,8 @@ some text floating around the image
   <img src="https://placehold.co/15x15/f03c15/f03c15.png" width="50" style="margin-right: 15px;">
   <span style="font-size: 18px; font-weight: bold;">#f03c15</span>
 </div>!-->
-
+<p align="center">
+  <img src="https://cdn.glitch.global/0c5397c2-8b81-453e-a90c-14d5c20cfd5d/tech-box-10.svg?v=1739045872076" align="left" width="200px"/>
+  <img src="https://cdn.glitch.global/0c5397c2-8b81-453e-a90c-14d5c20cfd5d/tech-box-11.svg?v=1739046382513" align="left" width="200px"/>
+  <img src="https://cdn.glitch.global/0c5397c2-8b81-453e-a90c-14d5c20cfd5d/tech-box-12.svg?v=1739046390614" align="left" width="200px"/>
+</p>
