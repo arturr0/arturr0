@@ -63,7 +63,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="left" width="200px"/>
 some text floating around the image
 
-<br clear="left"/>
+<!--<br clear="left"/>!-->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="left" width="200px"/>
 some text floating around the image
