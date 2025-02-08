@@ -59,3 +59,8 @@
 </div>
 
 <h3><img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> TECHNOLOGIES</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="left" width="200px"/>
+some text floating around the image
+
+<br clear="left"/>
