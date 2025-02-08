@@ -54,7 +54,7 @@
 </table>
 
 <div style="display: flex; align-items: center; justify-content: center; background-color: #3498db; color: white; padding: 20px; width: 100%;">
-  <img src="[https://via.placeholder.com/80](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)" width="80" style="margin-right: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" style="margin-right: 15px;">
   <span style="font-size: 20px; font-weight: bold;">Your Text Here</span>
 </div>
 
