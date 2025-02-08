@@ -65,7 +65,9 @@ some text floating around the image
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="left" width="200px"/>
 <br clear="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="left" width="200px"/>
-<br clear="left"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="left" width="200px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="left" width="200px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="left" width="200px"/>
 
 <!--<br clear="left"/>!-->
