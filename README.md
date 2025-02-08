@@ -65,11 +65,11 @@ some text floating around the image
 
 <!--<br clear="left"/>!-->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="left" width="200px"/>
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="left" width="200px"/>
 some text floating around the image
 
 <div style="display: flex; align-items: center; justify-content: center; background-color: #f0f0f0; padding: 10px; border-radius: 10px; width: 100%;">
   <img src="https://placehold.co/15x15/f03c15/f03c15.png" width="50" style="margin-right: 15px;">
   <span style="font-size: 18px; font-weight: bold;">#f03c15</span>
-</div>
+</div>!-->
 
