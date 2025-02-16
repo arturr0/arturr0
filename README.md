@@ -36,10 +36,10 @@
 
 <div style="flex: 1; min-width: 150px;">
   <h3>MovieRanker</h3>
-  <p>A web app to rank and review movies.</p>
+  <p>A web app to rank and review movies.
   <a href="https://github.com/arturr0/MovieRanker" target="_blank">Repository</a>
   <a href="https://movieranker-gavh.onrender.com" target="_blank">https://movieranker-gavh.onrender.com</a>
-
+  </p>
 </div>
 
 </div>
