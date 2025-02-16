@@ -23,8 +23,21 @@
 ### Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # Projects
-CipherConnect
-MovieRanker
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1; min-width: 150px;">
+  <h3>CipherConnect</h3>
+  <p>A secure messaging app with end-to-end encryption.</p>
+</div>
+
+<div style="flex: 1; min-width: 150px;">
+  <h3>MovieRanker</h3>
+  <p>A web app to rank and review movies.</p>
+</div>
+
+</div>
+
 # 📊 GitHub Stats:
 
 ---
