@@ -32,7 +32,7 @@
     <a href="https://github.com/arturr0/CipherConnect-WebSocket" target="_blank">Repository</a><br>
     <a href="https://cipherconnect.onrender.com" target="_blank">https://cipherconnect.onrender.com</a>
   </div>
-
+---
   <div style="min-width: 150px;">
     <h3>MovieRanker</h3>
     <p>A web app to rank and review movies.</p>
