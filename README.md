@@ -24,24 +24,23 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # Projects
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; flex-direction: column; gap: 20px;">
 
-<div style="flex: 1; min-width: 150px;">
-  <h3>CipherConnect</h3>
-  <p>A secure messaging app with end-to-end encryption.</p>
-  <a href="https://github.com/arturr0/CipherConnect-WebSocket" target="_blank">Repository</a>
-  <a href="https://cipherconnect.onrender.com" target="_blank">https://cipherconnect.onrender.com</a>
+  <div style="min-width: 150px;">
+    <h3>CipherConnect</h3>
+    <p>A secure messaging app with end-to-end encryption.</p>
+    <a href="https://github.com/arturr0/CipherConnect-WebSocket" target="_blank">Repository</a><br>
+    <a href="https://cipherconnect.onrender.com" target="_blank">https://cipherconnect.onrender.com</a>
+  </div>
 
-</div>
-
-<div style="flex: 1; min-width: 150px;">
-  <h3>MovieRanker</h3>
-  <p>A web app to rank and review movies.
-  <a href="https://github.com/arturr0/MovieRanker" target="_blank">Repository</a>
-  <a href="https://movieranker-gavh.onrender.com" target="_blank">https://movieranker-gavh.onrender.com</a>
-  </p>
-</div>
+  <div style="min-width: 150px;">
+    <h3>MovieRanker</h3>
+    <p>A web app to rank and review movies.</p>
+    <a href="https://github.com/arturr0/MovieRanker" target="_blank">Repository</a><br>
+    <a href="https://movieranker-gavh.onrender.com" target="_blank">https://movieranker-gavh.onrender.com</a>
+  </div>
 
 </div>
+
 
 
