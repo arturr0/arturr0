@@ -71,6 +71,43 @@
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2C<LABVIEW_BASE64_ENCODED>)
 ![MATLAB](https://img.shields.io/badge/MATLAB-?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2C<MATLAB_BASE64_ENCODED>)
 
+<p>
+  <span style="
+    display: inline-flex;
+    align-items: center;
+    background-color: #2296F3;       /* customize per logo */
+    color: white;
+    font-family: 'DejaVu Sans', Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 0 8px;
+    height: 20px;
+    border-radius: 3px;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg"
+         height="14" style="margin-right: 4px;" alt="LabVIEW" />
+    LabVIEW
+  </span>
+
+  <span style="
+    display: inline-flex;
+    align-items: center;
+    background-color: #0072CE;
+    color: white;
+    font-family: 'DejaVu Sans', Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 0 8px;
+    height: 20px;
+    border-radius: 3px;
+    margin-left: 8px;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
+         height="14" style="margin-right: 4px;" alt="MATLAB" />
+    MATLAB
+  </span>
+</p>
+
 
 
 # Projects
