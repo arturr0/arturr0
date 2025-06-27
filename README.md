@@ -108,6 +108,39 @@
   </span>
 </p>
 
+<!-- Inline SVG badge styled like Shields.io -->
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="28" role="img">
+  <style>
+    .badge {
+      font-family: "DejaVu Sans", Verdana, Geneva, sans-serif;
+      font-size: 11px;
+      font-weight: bold;
+      fill: #fff;
+    }
+  </style>
+  <!-- Background -->
+  <rect width="140" height="28" rx="3" fill="#3F3F3F"/>
+  <!-- LabVIEW logo -->
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg"
+         x="6" y="7" height="14"/>
+  <!-- Label text -->
+  <text x="28" y="19" class="badge">LabVIEW</text>
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="28" role="img">
+  <style>
+    .badge {
+      font-family: "DejaVu Sans", Verdana, Geneva, sans-serif;
+      font-size: 11px;
+      font-weight: bold;
+      fill: #fff;
+    }
+  </style>
+  <rect width="120" height="28" rx="3" fill="#0072CE"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
+         x="6" y="7" height="14"/>
+  <text x="28" y="19" class="badge">MATLAB</text>
+</svg>
 
 
 # Projects
