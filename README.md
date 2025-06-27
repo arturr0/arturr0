@@ -26,6 +26,49 @@
 
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-%23F2C400.svg?style=for-the-badge&logo=labview&logoColor=black&logoWidth=40)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23E14F1C.svg?style=for-the-badge&logo=matlab&logoColor=white&logoWidth=40)
+
+<p>
+  <a href="#">
+    <span style="
+      display: inline-flex;
+      align-items: center;
+      background-color: #3F3F3F;
+      color: white;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 4px 8px;
+      border-radius: 4px;
+      height: 28px;
+    ">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg"
+           height="18" style="margin-right:4px;" alt="LabVIEW" />
+      LabVIEW
+    </span>
+  </a>
+
+  <a href="#">
+    <span style="
+      display: inline-flex;
+      align-items: center;
+      background-color: #0072CE;
+      color: white;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 4px 8px;
+      border-radius: 4px;
+      height: 28px;
+      margin-left:8px;
+    ">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
+           height="18" style="margin-right:4px;" alt="MATLAB" />
+      MATLAB
+    </span>
+  </a>
+</p>
+
+
 # Projects
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
