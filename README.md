@@ -30,7 +30,12 @@
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-%23F2C400.svg?style=for-the-badge&logo=labview&logoColor=black&logoWidth=40)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23E14F1C.svg?style=for-the-badge&logo=matlab&logoColor=white&logoWidth=40)
 
+---
 
+### AI/Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+---
 
 # Projects
 
