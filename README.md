@@ -25,7 +25,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-%23F2C400.svg?style=for-the-badge&logo=labview&logoColor=black&logoWidth=40)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23E14F1C.svg?style=for-the-badge&logo=matlab&logoColor=white&logoWidth=40)
+![MATLAB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg=white&logoWidth=40)
 
 <p>
   <a href="#">
