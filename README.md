@@ -32,7 +32,7 @@
 
 <p align="left">
   <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(1).svg?v=1751052595162" height="100">
-  <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy.svg?v=1751052606360" height="100">
+  <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(2)%20(1).svg?v=1751053571072" height="100">
 </p>
 
 ---
