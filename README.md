@@ -129,6 +129,25 @@
   </g>
 </svg>
 
+<span style="
+    display: inline-flex;
+    align-items: center;
+    background-color: #0076A8;
+    color: white;
+    font-family: 'DejaVu Sans', Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 0 8px;
+    height: 20px;
+    border-radius: 3px;
+    margin-right: 8px;
+    text-transform: uppercase;
+">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
+         height="14" style="margin-right: 4px;" alt="MATLAB" />
+    MATLAB
+</span>
+
 # Projects
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
