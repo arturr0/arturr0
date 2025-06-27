@@ -24,28 +24,8 @@
 ### Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg" 
-  alt="LabVIEW" 
-  style="
-    height: 20px; 
-    vertical-align: middle; 
-    margin-right: 6px;
-  "
-/>
-<span style="
-  display: inline-block; 
-  background-color: #F0DB4F;  /* yellow-ish, similar to LabVIEW colors */
-  color: #323330;
-  font-weight: 600;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  padding: 5px 12px;
-  border-radius: 4px;
-  vertical-align: middle;
-  font-size: 13px;
-">
-  LabVIEW
-</span>
+![LabVIEW](https://img.shields.io/badge/LabVIEW-black?style=for-the-badge&logo=LabVIEW&logoColor=white)
+
 
 # Projects
 
