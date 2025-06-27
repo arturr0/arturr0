@@ -24,8 +24,8 @@
 ### Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![LabVIEW](https://img.shields.io/badge/LabVIEW-black?style=for-the-badge&logo=LabVIEW&logoColor=white)
-
+![LabVIEW](https://img.shields.io/badge/LabVIEW-%23F5A800.svg?style=for-the-badge&logo=labview&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23E1B12C.svg?style=for-the-badge&logo=matlab&logoColor=white)
 
 # Projects
 
