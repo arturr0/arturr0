@@ -27,8 +27,8 @@
 ---
 
 ### Mechatronics
-//![LabVIEW](https://img.shields.io/badge/LabVIEW-%23F2C400.svg?style=for-the-badge&logo=labview&logoColor=black&logoWidth=40)
-//![MATLAB](https://img.shields.io/badge/MATLAB-%23E14F1C.svg?style=for-the-badge&logo=matlab&logoColor=white&logoWidth=40)
+<!--![LabVIEW](https://img.shields.io/badge/LabVIEW-%23F2C400.svg?style=for-the-badge&logo=labview&logoColor=black&logoWidth=40)
+//![MATLAB](https://img.shields.io/badge/MATLAB-%23E14F1C.svg?style=for-the-badge&logo=matlab&logoColor=white&logoWidth=40)-->
 
 <p align="left">
   <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(6).svg?v=1751056282125" height="28">
