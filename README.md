@@ -110,7 +110,24 @@
   </span>
 </p>
 
-
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="20" viewBox="0 0 100 20">
+  <linearGradient id="b" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="a">
+    <rect width="100" height="20" rx="3" fill="#fff"/>
+  </mask>
+  <g mask="url(#a)">
+    <rect width="60" height="20" fill="#0076A8"/>
+    <rect x="60" width="40" height="20" fill="#555"/>
+    <rect width="100" height="20" fill="url(#b)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+    <image x="10" y="2" width="16" height="16" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
+    <text x="40" y="15" fill="#fff">MATLAB</text>
+  </g>
+</svg>
 
 # Projects
 
