@@ -8,7 +8,7 @@
   https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/html.svg?v=1751063812404
 <p align="left">
   <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(27).svg?v=1751064278390" height="28">
-  <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(28).svg?v=1751064550215" height="31">
+  <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(29).svg?v=1751064656699" height="31">
 </p>
 ---
 
