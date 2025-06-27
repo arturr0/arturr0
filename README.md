@@ -7,8 +7,8 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/html.svg?v=1751063812404
 <p align="left">
-  <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/html.svg?v=1751063812404" height="28">
-  <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(26).svg?v=1751062536823" height="32">
+  <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(27).svg?v=1751064278390" height="28">
+  <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(26).svg?v=1751062536823" height="28">
 </p>
 ---
 
