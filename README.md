@@ -4,7 +4,7 @@
 <p align="center">
   <strong>Frontend Development</strong><br/><br/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30">
-  <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(26).svg?v=1751062536823" height="30">
+  <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(26).svg?v=1751062536823" height="32">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30">
 </p>
 
