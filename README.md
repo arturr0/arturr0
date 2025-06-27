@@ -68,6 +68,10 @@
   </a>
 </p>
 
+![LabVIEW](https://img.shields.io/badge/LabVIEW-?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2C<LABVIEW_BASE64_ENCODED>)
+![MATLAB](https://img.shields.io/badge/MATLAB-?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2C<MATLAB_BASE64_ENCODED>)
+
+
 
 # Projects
 
