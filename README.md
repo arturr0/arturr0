@@ -28,6 +28,10 @@
 ![MATLAB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg=white&logoWidth=40)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2C<LABVIEW_BASE64_ENCODED>)
 ![MATLAB](https://img.shields.io/badge/MATLAB-?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2C<MATLAB_BASE64_ENCODED>)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-%23F2C400.svg?style=for-the-badge&logo=labview&logoColor=black&logoWidth=40)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23E14F1C.svg?style=for-the-badge&logo=matlab&logoColor=white&logoWidth=40)
 
 <p>
   <a href="#">
