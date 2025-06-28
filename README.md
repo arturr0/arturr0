@@ -71,7 +71,7 @@
     <h3>SealScan</h3>
     <p>An AI-powered app that detects and identifies O-rings in real-time from video footage to streamline quality control and inspection processes.</p>
     <a href="https://github.com/arturr0/oring-recognition-vite" target="_blank">Repository</a><br>
-    <a href="https://oring-recognition-vite.onrender.com" target="_blank">https://movieranker-gavh.onrender.com</a>
+    <a href="https://oring-recognition-vite.onrender.com" target="_blank">https://oring-recognition-vite.onrender.com</a>
   </div>
 
 </div>
