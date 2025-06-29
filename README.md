@@ -80,7 +80,7 @@
 
 <div style="min-width: 150px;">
     <h3>AudiobookFinder</h3>
-    <p>A Node.js tool that identifies audiobook versions of public domain works from Polona digital library <a href="https://movieranker-gavh.onrender.com" target="_blank">https://polona.pl</a>(polona.pl) across government portals.</p>
+    <p>A Node.js tool that identifies audiobook versions of public domain works from Polona digital library <a href="https://polona.pl" target="_blank">Polona</a> across government portals.</p>
     <a href="https://github.com/arturr0/audiobook-finder" target="_blank">Info</a><br>
   </div>
 
