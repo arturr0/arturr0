@@ -97,5 +97,14 @@
 
 </div>
 
+---
+
+<div style="min-width: 150px;">
+    <h3>Handwritten Digit Recognition AI</h3>
+    <p>A browser-based handwriting digit recognition app that uses a neural network trained on the MNIST dataset to identify digits drawn by the user. Inference is done client-side with TensorFlow.js for instant feedback.</p>
+    <a href="https://github.com/arturr0/HWR" target="_blank">Repository</a><br>
+  </div>
+
+</div>
 
 
