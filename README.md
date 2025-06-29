@@ -81,7 +81,7 @@
 <div style="min-width: 150px;">
     <h3>AudiobookFinder</h3>
     <p>A Node.js tool that identifies audiobook versions of **public domain works** from Polona digital library (https://polona.pl) across government portals</p>
-    <a href="https://github.com/arturr0/oring-recognition-vite" target="_blank">Repository</a><br>
+    <a href="https://github.com/arturr0/audiobook-finder" target="_blank">Info</a><br>
   </div>
 
 </div>
