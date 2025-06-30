@@ -130,7 +130,7 @@
 
   <!-- Project 6 -->
   <div style="background: #1e1e1e; padding: 15px; border-radius: 8px;">
-    <h3 style="margin-top: 0;">Handwritten Digit Recognition AI</h3>
+    <h3 style="margin-top: 0;">Handwritten Digits Recognition AI</h3>
     <p style="margin-bottom: 10px;">A browser-based handwriting digit recognition app using neural networks.</p>
     <div>
       <a href="https://github.com/arturr0/HWR" target="_blank" style="color: #58a6ff; text-decoration: none;">Repository</a>
