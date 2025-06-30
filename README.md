@@ -55,7 +55,7 @@
     </div>
   </div>
 
-  <!-- Mechatronics -->
+  <!-- Mechatronics & Physics Simulation -->
   <div style="background: #1e1e1e; padding: 15px; border-radius: 8px;">
     <h3 style="margin-top: 0; border-bottom: 1px solid #444; padding-bottom: 5px;">Mechatronics</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 5px;">
