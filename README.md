@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
 
-<!-- Mechatronics -->
+<!-- Mechatronics & Physics Simulation -->
 <div style="text-align: center; margin-bottom: 20px;">
   <h3>Mechatronics</h3>
   <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(6).svg?v=1751056282125" height="28">
