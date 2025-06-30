@@ -89,7 +89,7 @@
 ---
 
 <div style="min-width: 150px;">
-    <h3>Neural Network Ballistics</h3>
+    <h3>Ballistics Neural Network</h3>
     <p>A real-time multiplayer tank game featuring AI-controlled units powered by neural networks. The game uses a custom physics engine for realistic movement, collisions, and projectile dynamics.</p>
     <a href="https://github.com/arturr0/ai-tillery" target="_blank">Info</a><br>
     <a href="https://oring-recognition-vite.onrender.com" target="_blank">https://oring-recognition-vite.onrender.com</a>
