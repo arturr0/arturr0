@@ -112,7 +112,7 @@
 <div style="min-width: 150px;">
     <h3>Vibration AI</h3>
     <p>Programm predicts mechanical vibration damping in real-time using a C++ neural network, with Allegro visualization for analyzing harmonic motion patterns.</p>
-    <a href="https://github.com/arturr0/HWR" target="_blank">Repository</a><br>
+    <a href="https://github.com/arturr0/vibration-ai" target="_blank">Repository</a><br>
   </div>
 
 </div>
