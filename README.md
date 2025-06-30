@@ -8,7 +8,7 @@
     <h3 style="margin-top: 0; border-bottom: 1px solid #444; padding-bottom: 5px;">Frontend</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 5px;">
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(29).svg?v=1751064656699" height="28">
+      <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(29).svg?v=1751064656699" height="31">
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     </div>
