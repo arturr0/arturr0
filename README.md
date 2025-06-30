@@ -1,74 +1,78 @@
 <!-- Tech Stack Section -->
 <h2 style="text-align: center; margin: 20px 0;">Tech Stack</h2>
 
-<!-- Frontend Development -->
-<div style="margin-bottom: 15px;">
-  <h3 style="margin: 0 0 8px 0;">Frontend Development</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(29).svg?v=1751064656699" height="28">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  </div>
-</div>
+<div style="display: flex; flex-direction: column; gap: 10px; margin-bottom: 30px;">
 
-<!-- Backend Development -->
-<div style="margin-bottom: 15px;">
-  <h3 style="margin: 0 0 8px 0;">Backend Development</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-    <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <!-- Frontend Development -->
+  <div style="display: flex; align-items: center; gap: 15px;">
+    <h3 style="margin: 0; min-width: 150px;">Frontend:</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(29).svg?v=1751064656699" height="28">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    </div>
   </div>
-</div>
 
-<!-- Databases -->
-<div style="margin-bottom: 15px;">
-  <h3 style="margin: 0 0 8px 0;">Databases</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <!-- Backend Development -->
+  <div style="display: flex; align-items: center; gap: 15px;">
+    <h3 style="margin: 0; min-width: 150px;">Backend:</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+      <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+    </div>
   </div>
-</div>
 
-<!-- Deployment Platforms -->
-<div style="margin-bottom: 15px;">
-  <h3 style="margin: 0 0 8px 0;">Deployment Platforms</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
-    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-    <img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white">
+  <!-- Databases -->
+  <div style="display: flex; align-items: center; gap: 15px;">
+    <h3 style="margin: 0; min-width: 150px;">Databases:</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    </div>
   </div>
-</div>
 
-<!-- Programming Languages -->
-<div style="margin-bottom: 15px;">
-  <h3 style="margin: 0 0 8px 0;">Programming Languages</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <!-- Deployment Platforms -->
+  <div style="display: flex; align-items: center; gap: 15px;">
+    <h3 style="margin: 0; min-width: 150px;">Deployment:</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
+      <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
+      <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+      <img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white">
+    </div>
   </div>
-</div>
 
-<!-- Mechatronics & Physics Simulation -->
-<div style="margin-bottom: 15px;">
-  <h3 style="margin: 0 0 8px 0;">Mechatronics</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(6).svg?v=1751056282125" height="28">
-    <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(3)%20(1).svg?v=1751054088008" height="28">
+  <!-- Programming Languages -->
+  <div style="display: flex; align-items: center; gap: 15px;">
+    <h3 style="margin: 0; min-width: 150px;">Languages:</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    </div>
   </div>
-</div>
 
-<!-- AI/Machine Learning -->
-<div style="margin-bottom: 30px;">
-  <h3 style="margin: 0 0 8px 0;">AI / Machine Learning</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+  <!-- Mechatronics -->
+  <div style="display: flex; align-items: center; gap: 15px;">
+    <h3 style="margin: 0; min-width: 150px;">Mechatronics:</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
+      <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(6).svg?v=1751056282125" height="28">
+      <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(3)%20(1).svg?v=1751054088008" height="28">
+    </div>
   </div>
+
+  <!-- AI/Machine Learning -->
+  <div style="display: flex; align-items: center; gap: 15px;">
+    <h3 style="margin: 0; min-width: 150px;">AI/ML:</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+    </div>
+  </div>
+
 </div>
 
 <!-- Projects Section -->
