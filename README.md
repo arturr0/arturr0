@@ -102,8 +102,8 @@
   </div>
 
   <div style="min-width: 150px; margin-bottom: 20px;">
-    <h3>Ballistics Neural Network</h3>
-    <p>A real-time multiplayer tank game with AI units.</p>
+    <h3>Neural Network Ballistics</h3>
+    <p>Compete Online by Training Your Neural Network to Master Ballistics.</p>
     <p>
       <a href="https://github.com/arturr0/ai-tillery" target="_blank">Repository</a> | 
       <a href="https://oring-recognition-vite.onrender.com" target="_blank">Live Demo</a>
