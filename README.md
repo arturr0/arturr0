@@ -106,7 +106,7 @@
     <p>A real-time multiplayer tank game with AI units.</p>
     <p>
       <a href="https://github.com/arturr0/ai-tillery" target="_blank">Repository</a> | 
-      <a href="https://oring-recognition-vite.onrender.com" target="_blank">Live Demo</a>
+      <a href="https://ai-tanks.onrender.com" target="_blank">Live Demo</a>
     </p>
     <p>Tech: 
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
