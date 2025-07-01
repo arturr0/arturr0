@@ -1,4 +1,3 @@
-
 # 💻 Tech Stack:
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,9 +29,6 @@
 ---
 
 ### Mechatronics
-<!--![LabVIEW](https://img.shields.io/badge/LabVIEW-%23F2C400.svg?style=for-the-badge&logo=labview&logoColor=black&logoWidth=40)
-//![MATLAB](https://img.shields.io/badge/MATLAB-%23E14F1C.svg?style=for-the-badge&logo=matlab&logoColor=white&logoWidth=40)-->
-
 <p align="left">
   <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(6).svg?v=1751056282125" height="28">
   <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(3)%20(1).svg?v=1751054088008" height="28">
@@ -52,8 +48,10 @@
   <div style="min-width: 150px;">
     <h3>CipherConnect</h3>
     <p>A secure messaging app with end-to-end encryption.</p>
-    <a href="https://github.com/arturr0/CipherConnect-WebSocket" target="_blank">Repository</a><br>
-    <a href="https://cipherconnect.onrender.com" target="_blank">https://cipherconnect.onrender.com</a>
+    <img src="https://img.shields.io/badge/Repo-CipherConnect-blue?style=flat-square&logo=github"> | <img src="https://img.shields.io/badge/Live-CipherConnect-green?style=flat-square&logo=render">
+    <br>
+    <a href="https://github.com/arturr0/CipherConnect-WebSocket" target="_blank">Repository</a> | <a href="https://cipherconnect.onrender.com" target="_blank">Live Demo</a>
+    <p>Tech: <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"></p>
   </div>
 
 ---
@@ -61,60 +59,64 @@
   <div style="min-width: 150px;">
     <h3>MovieRanker</h3>
     <p>A web app to rank and review movies.</p>
-    <a href="https://github.com/arturr0/MovieRanker" target="_blank">Repository</a><br>
-    <a href="https://movieranker-gavh.onrender.com" target="_blank">https://movieranker-gavh.onrender.com</a>
+    <img src="https://img.shields.io/badge/Repo-MovieRanker-blue?style=flat-square&logo=github"> | <img src="https://img.shields.io/badge/Live-MovieRanker-green?style=flat-square&logo=render">
+    <br>
+    <a href="https://github.com/arturr0/MovieRanker" target="_blank">Repository</a> | <a href="https://movieranker-gavh.onrender.com" target="_blank">Live Demo</a>
+    <p>Tech: <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/TMDB-01D277?style=flat-square&logo=themoviedatabase&logoColor=white"></p>
   </div>
 
 --- 
 
  <div style="min-width: 150px;">
     <h3>SealScan</h3>
-    <p>An AI-powered app that detects and identifies O-rings in real-time from video footage to streamline quality control and inspection processes.</p>
-    <a href="https://github.com/arturr0/oring-recognition-vite" target="_blank">Info</a><br>
-    <a href="https://oring-recognition-vite.onrender.com" target="_blank">https://oring-recognition-vite.onrender.com</a>
+    <p>An AI-powered app that detects and identifies O-rings in real-time.</p>
+    <img src="https://img.shields.io/badge/Repo-SealScan-blue?style=flat-square&logo=github"> | <img src="https://img.shields.io/badge/Live-SealScan-green?style=flat-square&logo=render">
+    <br>
+    <a href="https://github.com/arturr0/oring-recognition-vite" target="_blank">Repository</a> | <a href="https://oring-recognition-vite.onrender.com" target="_blank">Live Demo</a>
+    <p>Tech: <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"> <img src="https://img.shields.io/badge/WebGPU-5A45FF?style=flat-square"></p>
   </div>
-
-</div>
 
 ---
 
 <div style="min-width: 150px;">
     <h3>AudiobookFinder</h3>
-    <p>A Node.js tool that identifies informations about audiobooks of public domain works from <a href="https://polona.pl" target="_blank">Polona</a> digital library across government portals.</p>
-    <a href="https://github.com/arturr0/audiobook-finder" target="_blank">Info</a><br>
+    <p>A tool that identifies audiobooks from digital libraries.</p>
+    <img src="https://img.shields.io/badge/Repo-AudiobookFinder-blue?style=flat-square&logo=github">
+    <br>
+    <a href="https://github.com/arturr0/audiobook-finder" target="_blank">Repository</a>
+    <p>Tech: <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"> <img src="https://img.shields.io/badge/Cheerio-FF9E0F?style=flat-square"></p>
   </div>
-
-</div>
 
 ---
 
 <div style="min-width: 150px;">
     <h3>Ballistics Neural Network</h3>
-    <p>A real-time multiplayer tank game featuring AI-controlled units powered by neural networks. The game uses a custom physics engine for realistic movement, collisions, and projectile dynamics.</p>
-    <a href="https://github.com/arturr0/ai-tillery" target="_blank">Info</a><br>
-    <a href="https://oring-recognition-vite.onrender.com" target="_blank">https://oring-recognition-vite.onrender.com</a>
+    <p>A real-time multiplayer tank game with AI units.</p>
+    <img src="https://img.shields.io/badge/Repo-BallisticsNN-blue?style=flat-square&logo=github"> | <img src="https://img.shields.io/badge/Live-BallisticsNN-green?style=flat-square&logo=render">
+    <br>
+    <a href="https://github.com/arturr0/ai-tillery" target="_blank">Repository</a> | <a href="https://oring-recognition-vite.onrender.com" target="_blank">Live Demo</a>
+    <p>Tech: <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio"> <img src="https://img.shields.io/badge/Matter.js-000000?style=flat-square"></p>
   </div>
-
-</div>
 
 ---
 
 <div style="min-width: 150px;">
     <h3>Handwritten Digit Recognition AI</h3>
-    <p>A browser-based handwriting digit recognition app that uses a neural network trained on the MNIST dataset to identify digits drawn by the user. Inference is done client-side with TensorFlow.js for instant feedback.</p>
-    <a href="https://github.com/arturr0/HWR" target="_blank">Repository</a><br>
+    <p>A browser-based handwriting digit recognition app.</p>
+    <img src="https://img.shields.io/badge/Repo-HandwritingAI-blue?style=flat-square&logo=github">
+    <br>
+    <a href="https://github.com/arturr0/HWR" target="_blank">Repository</a>
+    <p>Tech: <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/MNIST-000000?style=flat-square"></p>
   </div>
-
-</div>
 
 ---
 
 <div style="min-width: 150px;">
     <h3>Vibration AI</h3>
-    <p>Programm predicts mechanical vibration damping in real-time using a C++ neural network, with Allegro visualization for analyzing harmonic motion patterns.</p>
-    <a href="https://github.com/arturr0/vibration-ai" target="_blank">Repository</a><br>
+    <p>Predicts mechanical vibration damping in real-time.</p>
+    <img src="https://img.shields.io/badge/Repo-VibrationAI-blue?style=flat-square&logo=github">
+    <br>
+    <a href="https://github.com/arturr0/vibration-ai" target="_blank">Repository</a>
+    <p>Tech: <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Allegro-5-000000?style=flat-square"></p>
   </div>
-
 </div>
-
-
