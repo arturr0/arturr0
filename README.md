@@ -93,7 +93,7 @@ A browser-based handwriting digit recognition app.
 ---
 
 ### Vibration AI
-Predicts mechanical vibration damping in real-time.  
+Supervised Neural Network predicts mechanical vibration damping in real-time.  
 🔗 [Repository](https://github.com/arturr0/vibration-ai)  
 
 🛠️ ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Allegro](https://img.shields.io/badge/Allegro-5-000000?style=flat-square)
