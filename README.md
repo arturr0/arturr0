@@ -63,6 +63,7 @@ A web app to rank and review movies.
 ### SealScan
 An AI-powered app that detects and identifies O-rings in real-time.  
 🔗 [Repository](https://github.com/arturr0/oring-recognition-vite) | [Live Demo](https://oring-recognition-vite.onrender.com)  
+
 🛠️ ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) ![WebGPU](https://img.shields.io/badge/WebGPU-5A45FF?style=flat-square)
 
 ---
@@ -77,7 +78,7 @@ A tool that identifies audiobooks from digital libraries.
 
 ### Neural Network Ballistics
 Compete Online by Training Your Neural Network to Master Ballistics.  
-🔗 [Repository](https://github.com/arturr0/ai-tillery) | [Live Demo](https://oring-recognition-vite.onrender.com)  
+🔗 [Repository](https://github.com/arturr0/ai-tillery) | [Live Demo](https://ai-tanks.onrender.com/)  
 
 🛠️ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio) ![Matter.js](https://img.shields.io/badge/Matter.js-000000?style=flat-square)
 
