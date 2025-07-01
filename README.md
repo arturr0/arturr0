@@ -57,7 +57,7 @@
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
     </p>
   </div>
-
+  ---
   <div style="min-width: 150px; margin-bottom: 20px;">
     <h3>MovieRanker</h3>
     <p>A web app to rank and review movies.</p>
