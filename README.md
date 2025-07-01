@@ -49,6 +49,7 @@
     <h3>CipherConnect</h3>
     <p>A secure messaging app with end-to-end encryption.</p>
     <a href="https://github.com/arturr0/CipherConnect-WebSocket" target="_blank">Repository</a> | <a href="https://cipherconnect.onrender.com" target="_blank">Live Demo</a>
+    
     <p>Tech: <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"></p>
   </div>
 
