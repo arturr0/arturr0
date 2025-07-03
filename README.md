@@ -47,13 +47,13 @@
 A secure messaging app with end-to-end encryption.  
 🔗 [Repository](https://github.com/arturr0/CipherConnect-WebSocket) | [Live Demo](https://cipherconnect.onrender.com)  
 
-🛠️ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
 ### MovieRanker
 A web app to rank and review movies.  
-🔗 [Repository](https://github.com/arturr0/MovieRanker) | [Live Demo](https://movieranker-gavh.onrender.com)  
+[Repository](https://github.com/arturr0/MovieRanker) | [Live Demo](https://movieranker-gavh.onrender.com)  
 
 🛠️ ![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB-01D277?style=flat-square&logo=themoviedatabase&logoColor=white)
 
@@ -61,7 +61,7 @@ A web app to rank and review movies.
 
 ### SealScan
 An AI-powered app that detects and identifies O-rings in real-time.  
-🔗 [Repository](https://github.com/arturr0/oring-recognition-vite) | [Live Demo](https://oring-recognition-vite.onrender.com)  
+[Repository](https://github.com/arturr0/oring-recognition-vite) | [Live Demo](https://oring-recognition-vite.onrender.com)  
 
 🛠️ ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) ![WebGPU](https://img.shields.io/badge/WebGPU-5A45FF?style=flat-square)
 
@@ -71,7 +71,7 @@ An AI-powered app that detects and identifies O-rings in real-time.
 A tool that identifies audiobooks from digital libraries.  
 🔗 [Repository](https://github.com/arturr0/audiobook-finder)  
 
-🛠️ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white) ![Cheerio](https://img.shields.io/badge/Cheerio-FF9E0F?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white) ![Cheerio](https://img.shields.io/badge/Cheerio-FF9E0F?style=flat-square)
 
 ---
 
@@ -79,7 +79,7 @@ A tool that identifies audiobooks from digital libraries.
 Compete Online by Training Your Neural Network to Master Ballistics.  
 🔗 [Repository](https://github.com/arturr0/ai-tillery) | [Live Demo](https://ai-tanks.onrender.com/)  
 
-🛠️ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio) ![Matter.js](https://img.shields.io/badge/Matter.js-000000?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio) ![Matter.js](https://img.shields.io/badge/Matter.js-000000?style=flat-square)
 
 ---
 
@@ -87,7 +87,7 @@ Compete Online by Training Your Neural Network to Master Ballistics.
 A browser-based handwriting digit recognition app.  
 🔗 [Repository](https://github.com/arturr0/HWR)  
 
-🛠️ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MNIST](https://img.shields.io/badge/MNIST-000000?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MNIST](https://img.shields.io/badge/MNIST-000000?style=flat-square)
 
 ---
 
@@ -95,4 +95,4 @@ A browser-based handwriting digit recognition app.
 Supervised Neural Network predicts mechanical vibration damping in real-time.  
 🔗 [Repository](https://github.com/arturr0/vibration-ai)  
 
-🛠️ ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Allegro](https://img.shields.io/badge/Allegro-5-000000?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Allegro](https://img.shields.io/badge/Allegro-5-000000?style=flat-square)
