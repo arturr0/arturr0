@@ -69,7 +69,7 @@ An AI-powered app that detects and identifies O-rings in real-time.
 
 ### AudiobookFinder
 A tool that identifies audiobooks from digital libraries.  
-🔗 [Repository](https://github.com/arturr0/audiobook-finder)  
+[Repository](https://github.com/arturr0/audiobook-finder)  
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white) ![Cheerio](https://img.shields.io/badge/Cheerio-FF9E0F?style=flat-square)
 
@@ -77,7 +77,7 @@ A tool that identifies audiobooks from digital libraries.
 
 ### Neural Network Ballistics
 Compete Online by Training Your Neural Network to Master Ballistics.  
-🔗 [Repository](https://github.com/arturr0/ai-tillery) | [Live Demo](https://ai-tanks.onrender.com/)  
+[Repository](https://github.com/arturr0/ai-tillery) | [Live Demo](https://ai-tanks.onrender.com/)  
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio) ![Matter.js](https://img.shields.io/badge/Matter.js-000000?style=flat-square)
 
@@ -85,7 +85,7 @@ Compete Online by Training Your Neural Network to Master Ballistics.
 
 ### Handwritten Digit Recognition AI
 A browser-based handwriting digit recognition app.  
-🔗 [Repository](https://github.com/arturr0/HWR)  
+[Repository](https://github.com/arturr0/HWR)  
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MNIST](https://img.shields.io/badge/MNIST-000000?style=flat-square)
 
@@ -93,6 +93,6 @@ A browser-based handwriting digit recognition app.
 
 ### Vibration AI
 Supervised Neural Network predicts mechanical vibration damping in real-time.  
-🔗 [Repository](https://github.com/arturr0/vibration-ai)  
+[Repository](https://github.com/arturr0/vibration-ai)  
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Allegro](https://img.shields.io/badge/Allegro-5-000000?style=flat-square)
