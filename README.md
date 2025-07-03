@@ -8,22 +8,31 @@
 ---
 
 ### Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
 ### Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ### Deployment Platforms
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
 
 ---
 
 ### Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
@@ -36,7 +45,8 @@
 ---
 
 ### AI/Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ---
 
@@ -44,54 +54,68 @@
 
 ### CipherConnect
 A secure messaging app with end-to-end encryption.  
-<span style="font-size: 1.1em; font-weight: bold;">[Info](https://github.com/arturr0/CipherConnect-WebSocket)</span> | <span style="font-size: 1.1em; font-weight: bold;">[Live Demo](https://cipherconnect.onrender.com)</span>  
+<span style="font-size: 1.1em;">[Info](https://github.com/arturr0/CipherConnect-WebSocket) | [Live Demo](https://cipherconnect.onrender.com)</span>  
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
 ### MovieRanker
 A web app to rank and review movies.  
-<span style="font-size: 1.1em; font-weight: bold;">[Info](https://github.com/arturr0/MovieRanker)</span> | <span style="font-size: 1.1em; font-weight: bold;">[Live Demo](https://movieranker-gavh.onrender.com)</span>  
+<span style="font-size: 1.1em;">[Info](https://github.com/arturr0/MovieRanker) | [Live Demo](https://movieranker-gavh.onrender.com)</span>  
 
-![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB-01D277?style=flat-square&logo=themoviedatabase&logoColor=white)
+![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) 
+![TMDB](https://img.shields.io/badge/TMDB-01D277?style=flat-square&logo=themoviedatabase&logoColor=white)
 
 ---
 
 ### SealScan
 An AI-powered app that detects and identifies O-rings in real-time.  
-<span style="font-size: 1.1em; font-weight: bold;">[Info](https://github.com/arturr0/oring-recognition-vite)</span> | <span style="font-size: 1.1em; font-weight: bold;">[Live Demo](https://oring-recognition-vite.onrender.com)</span>  
+<span style="font-size: 1.1em;">[Info](https://github.com/arturr0/oring-recognition-vite) | [Live Demo](https://oring-recognition-vite.onrender.com)</span>  
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) ![WebGPU](https://img.shields.io/badge/WebGPU-5A45FF?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) 
+![WebGPU](https://img.shields.io/badge/WebGPU-5A45FF?style=flat-square)
 
 ---
 
 ### AudiobookFinder
 A tool that identifies audiobooks from digital libraries on government portals.  
-<span style="font-size: 1.1em; font-weight: bold;">[Info](https://github.com/arturr0/audiobook-finder)</span>  
+<span style="font-size: 1.1em;">[Info](https://github.com/arturr0/audiobook-finder)</span>  
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white) ![Cheerio](https://img.shields.io/badge/Cheerio-FF9E0F?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) 
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white) 
+![Cheerio](https://img.shields.io/badge/Cheerio-FF9E0F?style=flat-square)
 
 ---
 
 ### Neural Network Ballistics
 Compete Online by Training Your Neural Network to Master Ballistics.  
-<span style="font-size: 1.1em; font-weight: bold;">[Info](https://github.com/arturr0/ai-tillery)</span> | <span style="font-size: 1.1em; font-weight: bold;">[Live Demo](https://ai-tanks.onrender.com/)</span>  
+<span style="font-size: 1.1em;">[Info](https://github.com/arturr0/ai-tillery) | [Live Demo](https://ai-tanks.onrender.com/)</span>  
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio) ![Matter.js](https://img.shields.io/badge/Matter.js-000000?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio) 
+![Matter.js](https://img.shields.io/badge/Matter.js-000000?style=flat-square)
 
 ---
 
 ### Handwritten Digits Recognition AI
 A browser-based handwriting digit recognition app.  
-<span style="font-size: 1.1em; font-weight: bold;">[Info](https://github.com/arturr0/HWR)</span>  
+<span style="font-size: 1.1em;">[Info](https://github.com/arturr0/HWR)</span>  
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MNIST](https://img.shields.io/badge/MNIST-000000?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
+![MNIST](https://img.shields.io/badge/MNIST-000000?style=flat-square)
 
 ---
 
 ### Vibration AI
 Supervised Neural Network predicts mechanical vibration damping in real-time.  
-<span style="font-size: 1.1em; font-weight: bold;">[Info](https://github.com/arturr0/vibration-ai)</span>  
+<span style="font-size: 1.1em;">[Info](https://github.com/arturr0/vibration-ai)</span>  
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Allegro](https://img.shields.io/badge/Allegro-5-000000?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
+![Allegro](https://img.shields.io/badge/Allegro-5-000000?style=flat-square)
