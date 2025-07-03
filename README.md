@@ -68,7 +68,7 @@ An AI-powered app that detects and identifies O-rings in real-time.
 ---
 
 ### AudiobookFinder
-A tool that identifies audiobooks from digital libraries.  
+A tool that identifies audiobooks from digital libraries on government portals.  
 [Repository](https://github.com/arturr0/audiobook-finder)  
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white) ![Cheerio](https://img.shields.io/badge/Cheerio-FF9E0F?style=flat-square)
