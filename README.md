@@ -27,7 +27,7 @@
 
 ---
 
-### Mechatronics & Physics Simulation
+### Data Analysis & Simulation Tools
 <p align="left">
   <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(6).svg?v=1751056282125" height="28">
   <img src="https://cdn.glitch.global/9b6e30d1-a1c2-46a0-a831-d48ce809e60a/Bez%20nazwy%20(3)%20(1).svg?v=1751054088008" height="28">
