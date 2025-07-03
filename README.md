@@ -40,9 +40,7 @@
 
 ---
 
-# Projects
-
----
+# Projects in progress
 
 ### CipherConnect
 A secure messaging app with end-to-end encryption.  
