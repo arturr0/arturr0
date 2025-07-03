@@ -44,7 +44,7 @@
 
 ### CipherConnect
 A secure messaging app with end-to-end encryption.  
-🔗 [Info](https://github.com/arturr0/CipherConnect-WebSocket) | [Live Demo](https://cipherconnect.onrender.com)  
+[Info](https://github.com/arturr0/CipherConnect-WebSocket) | [Live Demo](https://cipherconnect.onrender.com)  
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
