@@ -53,7 +53,7 @@ A secure messaging app with end-to-end encryption.
 
 ### MovieRanker
 A web app to rank and review movies.  
-<span style="font-size: 1.1em;">[Info](https://github.com/arturr0/MovieRanker) | [Live Demo](https://movieranker-gavh.onrender.com)</span>  
+<span style="font-size: 1.1em;">[Info](https://github.com/arturr0/MovieRanker) | [Live Demo](https://movieranker-react.onrender.com)</span>  
 
 ![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB-01D277?style=flat-square&logo=themoviedatabase&logoColor=white)
 
