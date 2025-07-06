@@ -37,9 +37,9 @@ Python
 
 ---
 
-### Programming Languages
-C++  
-Python
+### Physics Data Analisys and Simulations Tools
+LabView  
+MATLAB
 
 ---
 
