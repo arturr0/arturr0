@@ -38,7 +38,9 @@ Python
 ---
 
 ### Physics Data Analysis & Simulations Tools
-LabView, MATLAB
+LabView
+
+MATLAB
 
 ---
 
