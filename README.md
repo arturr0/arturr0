@@ -85,7 +85,7 @@ Node.js, Axios, Puppeteer, Cheerio
 
 ### Neural Network Ballistics
 Compete Online by Training Your Neural Network to Master Ballistics.  
-[Info](https://github.com/arturr0/ai-tillery) | [Live Demo](https://ai-tanks.onrender.com/)  
+[Info](https://github.com/arturr0/ai-tillery) | [Live Demo](https://tank-rooms.onrender.com)  
 
 Node.js, Socket.io, Matter.js
 
