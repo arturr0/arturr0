@@ -17,7 +17,7 @@ PHP
 ---
 
 ### Databases
-Postgres  
+PostgreSQL 
 SQLite  
 MySQL  
 MongoDB
