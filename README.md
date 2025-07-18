@@ -8,12 +8,13 @@ React
 
 ---
 
-### Backend Development
-NodeJS  
-NestJS  
-Socket.io  
-PHP
-Docker
+### Frontend Development
+HTML5  
+CSS3  
+JavaScript  
+React
+React
+
 ---
 
 ### Databases
