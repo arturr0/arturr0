@@ -9,11 +9,11 @@ React
 
 ---
 
-### Frontend Development
-HTML5  
-CSS3  
-JavaScript  
-React
+### Backend Development
+Node.js  
+WebSockets
+PHP  
+Docker
 
 ---
 
