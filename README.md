@@ -18,7 +18,7 @@ Docker
 ---
 
 ### Databases
-PostgreSQL 
+PostgreSQL   
 SQLite  
 MySQL  
 MongoDB
