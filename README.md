@@ -1,10 +1,11 @@
 # 💻 Tech Stack:
 
-### Frontend Development
-HTML5  
-CSS3  
-JavaScript  
-React
+### Backed Development
+Node.js  
+WebSocket
+PHP
+Docker
+
 
 ---
 
