@@ -105,3 +105,11 @@ Supervised Neural Network predicts mechanical vibration damping in real-time.
 [Info](https://github.com/arturr0/vibration-ai)  
 
 C++, Allegro
+
+---
+
+### AI Snake
+Q-learning algorithm to train a snake to navigate on canvas.
+[Info](https://github.com/arturr0/vibration-ai)  
+
+C++, JavaScript, Docker
