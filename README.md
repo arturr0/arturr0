@@ -109,7 +109,7 @@ C++, Allegro
 ---
 
 ### AI Snake
-Q-learning algorithm to train a snake to navigate on canvas.
-[Info](https://github.com/arturr0/vibration-ai)  
+Q-learning algorithm to train a snake to navigate on canvas.   
+[Info](https://github.com/arturr0/CipherConnect-WebSocket) | [Live Demo](https://cipherconnect.onrender.com)  
 
 C++, JavaScript, Docker
