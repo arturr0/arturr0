@@ -64,7 +64,7 @@ Node.js, Socket.io, SQLite
 A web app to rank and review movies.  
 [Info](https://github.com/arturr0/MovieRanker) | [Live Demo](https://movieranker-react.onrender.com)  
 
-NestJS, React, PostgreSQL, TMDB
+NestJS, React, PostgreSQL, TMDB API
 
 ---
 
