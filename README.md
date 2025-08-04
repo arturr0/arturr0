@@ -46,41 +46,18 @@ MATLAB
 
 ### AI/Machine Learning
 TensorFlow  
-PyTorch
+PyTorch  
+Open Neural Network Exchange
 
 ---
 
 # Projects in progress
 
-### CipherConnect
-A secure messaging app with end-to-end encryption.  
-[Info](https://github.com/arturr0/CipherConnect-WebSocket) | [Live Demo](https://cipherconnect.onrender.com)  
-
-Node.js, Socket.io, SQLite
-
----
-
-### MovieRanker
-A web app to rank and review movies.  
-[Info](https://github.com/arturr0/MovieRanker) | [Live Demo](https://movieranker-react.onrender.com)  
-
-NestJS, React, PostgreSQL, TMDB API
-
----
-
 ### SealScan
 An AI-powered app that detects and identifies O-rings in real-time.  
 [Info](https://github.com/arturr0/oring-recognition-vite) | [Live Demo](https://oring-recognition-vite.onrender.com)  
 
-React, ONNX, WebGPU
-
----
-
-### AudiobookFinder
-A tool that identifies audiobooks from digital libraries on government portals.  
-[Info](https://github.com/arturr0/audiobook-finder)  
-
-Node.js, Axios, Puppeteer, Cheerio
+React, ONNX, WebGPU, PyTorch
 
 ---
 
@@ -107,6 +84,43 @@ Supervised Neural Network predicts mechanical vibration damping in real-time.
 C++, Allegro
 
 ---
+
+### Job Finder AI Agent
+AI agent that fetches job listings from the Jooble API and generates tailored CVs using local AI models.    
+[Info](https://github.com/arturr0/job-agent)    
+
+Node.js, Ollama, Jooble API
+
+---
+
+### AI Snake
+Reinforcement learning Snake game using Q-learning with real-time training visualization.     
+[Info](https://github.com/arturr0/snake-ai) | [Live Demo](https://ai-snake-kfwm.onrender.com)   
+C++, Docker, Emscripten SDK
+
+---
+
+### CipherConnect
+A secure messaging app with end-to-end encryption.  
+[Info](https://github.com/arturr0/CipherConnect-WebSocket) | [Live Demo](https://cipherconnect.onrender.com)  
+
+Node.js, Socket.io, SQLite
+
+---
+
+### MovieRanker
+A web app to rank and review movies.  
+[Info](https://github.com/arturr0/MovieRanker) | [Live Demo](https://movieranker-react.onrender.com)  
+
+NestJS, React, PostgreSQL, TMDB API
+
+---
+
+### AudiobookFinder
+A tool that identifies audiobooks from digital libraries on government portals.  
+[Info](https://github.com/arturr0/audiobook-finder)  
+
+Node.js, Axios, Puppeteer, Cheerio
 
 <!--### AI Snake
 Q-learning algorithm to train a snake to navigate on canvas.   
