@@ -96,6 +96,7 @@ Node.js, Ollama, Jooble API
 ### AI Snake
 Reinforcement learning Snake game using Q-learning with real-time training visualization.     
 [Info](https://github.com/arturr0/snake-ai) | [Live Demo](https://ai-snake-kfwm.onrender.com)   
+
 C++, Docker, Emscripten SDK
 
 ---
