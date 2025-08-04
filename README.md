@@ -51,7 +51,7 @@ Open Neural Network Exchange
 
 ---
 
-# Projects in progress
+# 🚧 Projects in progress
 
 ### SealScan
 An AI-powered app that detects and identifies O-rings in real-time.  
