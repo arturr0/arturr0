@@ -81,7 +81,7 @@ Node.js, MNIST
 Supervised Neural Network predicts mechanical vibration damping in real-time.  
 [Info](https://github.com/arturr0/vibration-ai)  
 
-C++, Allegro
+C++, Allegro5
 
 ---
 
