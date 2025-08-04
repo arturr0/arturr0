@@ -57,7 +57,7 @@ Open Neural Network Exchange
 An AI-powered app that detects and identifies O-rings in real-time.  
 [Info](https://github.com/arturr0/oring-recognition-vite) | [Live Demo](https://oring-recognition-vite.onrender.com)  
 
-React, ONNX, WebGPU
+React, ONNX, WebGPU, PyTorch
 
 ---
 
@@ -82,6 +82,21 @@ Supervised Neural Network predicts mechanical vibration damping in real-time.
 [Info](https://github.com/arturr0/vibration-ai)  
 
 C++, Allegro
+
+---
+
+### Job Finder AI Agent
+AI agent that fetches job listings from the Jooble API and generates tailored CVs using local AI models.
+[Info](https://github.com/arturr0/job-agent)  
+
+Node.js, Ollama, Jooble API
+
+---
+
+### AI Snake
+Reinforcement learning Snake game using Q-learning with real-time training visualization.
+[Info](https://github.com/arturr0/snake-ai)  
+C++, Docker, Emscripten SDK
 
 ---
 
