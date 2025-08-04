@@ -86,7 +86,7 @@ C++, Allegro
 ---
 
 ### Job Finder AI Agent
-AI agent that fetches job listings from the Jooble API and generates tailored CVs using local AI models.
+AI agent that fetches job listings from the Jooble API and generates tailored CVs using local AI models.    
 [Info](https://github.com/arturr0/job-agent)    
 
 Node.js, Ollama, Jooble API
