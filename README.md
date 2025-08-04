@@ -53,21 +53,11 @@ Open Neural Network Exchange
 
 # Projects in progress
 
----
-
 ### SealScan
 An AI-powered app that detects and identifies O-rings in real-time.  
 [Info](https://github.com/arturr0/oring-recognition-vite) | [Live Demo](https://oring-recognition-vite.onrender.com)  
 
 React, ONNX, WebGPU
-
----
-
-### AudiobookFinder
-A tool that identifies audiobooks from digital libraries on government portals.  
-[Info](https://github.com/arturr0/audiobook-finder)  
-
-Node.js, Axios, Puppeteer, Cheerio
 
 ---
 
@@ -108,6 +98,14 @@ A web app to rank and review movies.
 [Info](https://github.com/arturr0/MovieRanker) | [Live Demo](https://movieranker-react.onrender.com)  
 
 NestJS, React, PostgreSQL, TMDB API
+
+---
+
+### AudiobookFinder
+A tool that identifies audiobooks from digital libraries on government portals.  
+[Info](https://github.com/arturr0/audiobook-finder)  
+
+Node.js, Axios, Puppeteer, Cheerio
 
 <!--### AI Snake
 Q-learning algorithm to train a snake to navigate on canvas.   
