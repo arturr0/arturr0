@@ -53,20 +53,6 @@ Open Neural Network Exchange
 
 # Projects in progress
 
-### CipherConnect
-A secure messaging app with end-to-end encryption.  
-[Info](https://github.com/arturr0/CipherConnect-WebSocket) | [Live Demo](https://cipherconnect.onrender.com)  
-
-Node.js, Socket.io, SQLite
-
----
-
-### MovieRanker
-A web app to rank and review movies.  
-[Info](https://github.com/arturr0/MovieRanker) | [Live Demo](https://movieranker-react.onrender.com)  
-
-NestJS, React, PostgreSQL, TMDB API
-
 ---
 
 ### SealScan
@@ -108,6 +94,20 @@ Supervised Neural Network predicts mechanical vibration damping in real-time.
 C++, Allegro
 
 ---
+
+### CipherConnect
+A secure messaging app with end-to-end encryption.  
+[Info](https://github.com/arturr0/CipherConnect-WebSocket) | [Live Demo](https://cipherconnect.onrender.com)  
+
+Node.js, Socket.io, SQLite
+
+---
+
+### MovieRanker
+A web app to rank and review movies.  
+[Info](https://github.com/arturr0/MovieRanker) | [Live Demo](https://movieranker-react.onrender.com)  
+
+NestJS, React, PostgreSQL, TMDB API
 
 <!--### AI Snake
 Q-learning algorithm to train a snake to navigate on canvas.   
