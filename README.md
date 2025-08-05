@@ -129,7 +129,7 @@ Q-learning algorithm to train a snake to navigate on canvas.
 
 C++, JavaScript, Docker-->
 # 📊  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arturr0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=arturr0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 ![](https://nirzak-streak-stats.vercel.app/?user=arturr0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arturr0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
