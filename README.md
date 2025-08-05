@@ -121,7 +121,7 @@ NestJS, React, PostgreSQL, TMDB API
 A tool that identifies audiobooks from digital libraries on government portals.  
 [Info](https://github.com/arturr0/audiobook-finder)  
 
-Node.js, Axios, Puppeteer, Cheerio
+Node.js, Axios, Puppeteer, Cheerio, Polona API
 
 ---
 
