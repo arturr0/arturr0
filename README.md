@@ -62,7 +62,7 @@ React, ONNX, WebGPU, PyTorch
 ---
 
 ### Beam Analysis AI Tool
-A tool that leverages AI to parse natural language descriptions of beams and performs structural analysis to generate interactive shear force and bending moment diagrams. 
+A tool that leverages AI to parse natural language descriptions of beams and performs structural analysis to generate interactive shear force and bending moment diagrams.       
 [Info](https://github.com/arturr0/beam-analisys-ai-tool) | [Live Demo](https://beam-render.onrender.com)  
 
 NumPy, FastAPI
