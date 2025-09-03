@@ -61,6 +61,14 @@ React, ONNX, WebGPU, PyTorch
 
 ---
 
+### SealScan
+An AI-powered app that detects and identifies O-rings in real-time.  
+[Info](https://github.com/arturr0/oring-recognition-vite) | [Live Demo](https://oring-recognition-vite.onrender.com)  
+
+React, ONNX, WebGPU, PyTorch
+
+---
+
 ### Neural Network Ballistics
 Compete Online by Training Your Neural Network to Master Ballistics.  
 [Info](https://github.com/arturr0/ai-tillery) | [Live Demo](https://tank-rooms.onrender.com)  
