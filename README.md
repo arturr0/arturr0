@@ -61,11 +61,11 @@ React, ONNX, WebGPU, PyTorch
 
 ---
 
-### SealScan
+### Beam Analysis AI Tool
 An AI-powered app that detects and identifies O-rings in real-time.  
-[Info](https://github.com/arturr0/oring-recognition-vite) | [Live Demo](https://oring-recognition-vite.onrender.com)  
+[Info](https://github.com/arturr0/beam-analisys-ai-tool) | [Live Demo](https://beam-render.onrender.com)  
 
-React, ONNX, WebGPU, PyTorch
+NumPy, FastAPI
 
 ---
 
