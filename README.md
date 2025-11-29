@@ -81,7 +81,7 @@ Node.js, Socket.io, Matter.js
 A browser-based handwriting digit recognition app.  
 [Info](https://github.com/arturr0/HWR)  
 
-Node.js, MNIST
+Node.js, MNIST, Tensorflow.js
 
 ---
 
